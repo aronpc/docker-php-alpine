@@ -1,0 +1,5 @@
+php-fpm -D -O 
+
+crond -b -L /dev/stdout -c /crontab
+
+nginx
