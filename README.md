@@ -22,4 +22,4 @@ services:
 ```
 
 
-Special thanks to [@mic-oliveira](https://github.com/@mic-oliveira) ,[@JonatanLima](https://github.com/@JonatanLima) and [@marabesi](https://github.com/@marabesi). 
+Special thanks to [@mic-oliveira](https://github.com/mic-oliveira) ,[@JonatanLima](https://github.com/JonatanLima) and [@marabesi](https://github.com/marabesi). 
