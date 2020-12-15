@@ -15,11 +15,11 @@ $ docker run -it --rm --name php-cli-test -v "$PWD":/app aronpc/php-alpine:lates
 version: '3'
 services:
   web:
-	 image: aronpc/php-alpine:latest-nginx
-	    working_dir: /app
-	    volumes:
-	      - ./:/app
+    image: aronpc/php-alpine:latest-nginx
+    working_dir: /app
+    volumes:
+      - ./:/app
 ```
 
 
-Special thanks to @mic-oliveira, @JonatanLima and @marabesi. 
+Special thanks to [@mic-oliveira](https://github.com/@mic-oliveira) ,[@JonatanLima](https://github.com/@JonatanLima) and [@marabesi](https://github.com/@marabesi). 
